@@ -21,8 +21,11 @@ Dangerous when you need objective business analysis.
 
 ## Download Books (Free)
 
-- Book 1 — The Technical Journey: [book1.pdf](book1.pdf)
-- Book 2 — How Will Humans Use AI?: [book2.pdf](book2.pdf)
+- 📗 Book 1 — The Technical Journey: 
+[Download PDF](Hanh-Trinh-AI-Va-Con-Nguoi-Tap1-Final.pdf)
+
+- 📘 Book 2 — How Will Humans Use AI?: 
+[Download PDF](Con-Nguoi-Se-Su-Dung-AI-Nhu-The-Nao-Final.pdf)
 
 ## The Core Insight
 
