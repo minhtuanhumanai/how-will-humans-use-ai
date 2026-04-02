@@ -22,10 +22,10 @@ Dangerous when you need objective business analysis.
 ## Download Books (Free)
 
 - 📗 Book 1 — The Technical Journey: 
-[Download PDF](Hanh-Trinh-AI-Va-Con-Nguoi-Tap1-Final.pdf)
+[Download PDF](https://drive.google.com/file/d/15yVV1S81jiWaheEtXDpFu0FoKlJC5QNF/view?usp=sharing)
 
 - 📘 Book 2 — How Will Humans Use AI?: 
-[Download PDF](Con-Nguoi-Se-Su-Dung-AI-Nhu-The-Nao-Final.pdf)
+[Download PDF](https://drive.google.com/file/d/1TrFbMKJejjzH7QWJMfYUtZtx3M6jw6J1/view?usp=sharing)
 
 ## The Core Insight
 
