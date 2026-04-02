@@ -25,7 +25,7 @@ Dangerous when you need objective business analysis.
 [Download PDF](https://drive.google.com/file/d/15yVV1S81jiWaheEtXDpFu0FoKlJC5QNF/view?usp=sharing)
 
 - 📘 Book 2 — How Will Humans Use AI?: 
-[Download PDF](https://drive.google.com/file/d/1TrFbMKJejjzH7QWJMfYUtZtx3M6jw6J1/view?usp=sharing)
+[Download PDF](https://drive.google.com/file/d/19taiQD6Zi0eAOh7W_uU7XccJInAgWgrv/view?usp=sharing)
 
 ## The Core Insight
 
